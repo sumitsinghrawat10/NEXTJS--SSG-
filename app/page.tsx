@@ -56,7 +56,7 @@ export default function HomePage() {
       {/* Hero */}
       <section className="bg-navy text-cream">
         <div className="max-w-6xl mx-auto px-6 py-24 grid md:grid-cols-2 gap-10 items-center">
-          <div>
+          <div className="order-2 md:order-1">
             <p className="uppercase tracking-widest text-gold text-sm mb-4">
               Adviser &middot; Hanumangarh (Raj.)
             </p>
@@ -75,8 +75,8 @@ export default function HomePage() {
               Schedule a Consultation
             </Link>
           </div>
-          <div className="hidden md:flex justify-center">
-  <div className="w-64 h-64 rounded-full overflow-hidden border-4 border-gold bg-gold/10">
+          <div className="order-1 md:order-2 flex justify-center">
+  <div className="w-40 h-40 md:w-64 md:h-64 rounded-full overflow-hidden border-4 border-gold bg-gold/10">
     <img
       src="/advocate-photo.png"
       alt="Tirath Singh, Consumer Court Hanumangarh Adviser"
