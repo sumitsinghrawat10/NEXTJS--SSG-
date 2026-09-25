@@ -65,7 +65,7 @@ export default function HomePage() {
 
             </h1>
             <p className="text-cream/80 mb-8 leading-relaxed">
-              With over 36 years of experience in Consumer Courts, I guide people through legal matters with clarity and a commitment to fair justice.
+              With over 36 years of experience in Consumer Court, I guide people through legal matters with clarity and a commitment to fair justice.
 
             </p>
             <Link
