@@ -72,13 +72,13 @@ export default function AboutPage() {
         I have 36 years of experience working in the Civil Court and Consumer
         Court in Hanumangarh, Rajasthan. During my service, I worked for
         approximately 25 years in a Readership role in the Consumer Court,
-        handling case files, court records, documentation, and administrative
+        handling case files, court records, documentation and administrative
         work. I retired from government service in February 2026 as an
         Additional Administrative Officer (AAO), with extensive knowledge of
         court procedures and consumer-related matters.
       </p>
       <p className="text-navy/80 leading-relaxed mb-12">
-        My focus has always been on ensuring that matters are handled fairly, properly, and in accordance with the law, so that people receive the justice they deserve. I believe that careful preparation, proper documentation, and a clear understanding of legal procedures are essential for achieving fair outcomes.
+        My focus has always been on ensuring that matters are handled fairly, properly and in accordance with the law, so that people receive the justice they deserve. I believe that careful preparation, proper documentation and a clear understanding of legal procedures are essential for achieving fair outcomes.
       </p>
 
       <h2 className="font-serif text-2xl mb-6">Timeline</h2>
