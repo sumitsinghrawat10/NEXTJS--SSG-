@@ -11,7 +11,7 @@ export default function ContactForm() {
     e.preventDefault();
     const subject = encodeURIComponent(`Consultation request from ${name}`);
     const body = encodeURIComponent(`${message}\n\nFrom: ${name} (${email})`);
-    window.location.href = `mailto:contact@rajeshmehtaAdviser.in?subject=${subject}&body=${body}`;
+    window.location.href = `mailto:tirath1966@gmail.com?subject=${subject}&body=${body}`;
   }
 
   return (
